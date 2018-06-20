@@ -4,7 +4,7 @@ require_relative '../lib/hello_ruby_programmer.rb'
 
 
 def greeting(name)
-  puts "Hello #{name}"
+  puts "Hello #{name}!"
 end
 
 puts "Hi! Welcome to the wonderful world of Ruby programming."
